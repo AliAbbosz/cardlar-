@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Tilt+Warp&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Tilt Warp', cursive;
+}
+
+.divlar1{
+    width: 330px;
+    height: 430px;
+    text-align: center;
+    border: 3px solid black;
+    -webkit-box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+
+
+}
+img{
+    width: 90px;
+    height: 90px;
+    margin-top: 30px;
+}
+
+button{
+    border-radius:30px;
+    width: 150px;
+    height: 30px;
+    color: white;
+    background-color: black;
+}
+p{
+    text-align: center;
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+.divlar2{
+    width: 330px;
+    height: 430px;
+    text-align: center;
+    border: 3px solid deeppink;
+    background-color: deeppink;
+    color: white;
+    -webkit-box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+
+}
+img{
+    width: 90px;
+    height: 90px;
+    margin-top: 30px; 
+    color: white;
+}
+.button2{
+    border-radius: 10px;
+    width: 150px;
+    color: deeppink;
+    background-color: white;
+    border: 1px;
+
+}
+p{
+    text-align: center;
+}
+/* ////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+.divlar3{
+    width: 330px;
+    height: 430px;
+    text-align: center;
+    border: 3px solid black;
+    -webkit-box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+-moz-box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+box-shadow: 12px 9px 10px -2px rgba(34, 60, 80, 0.2);
+}
+.Bobo{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
